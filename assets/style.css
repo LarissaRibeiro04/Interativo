@@ -7,3 +7,15 @@ scale=1.0”>
 <<link rel=”stylesheet” href=”assets/style.css”>
 <title>Flashcards</title>
 </head>
+body {
+    background-color: bisque;
+    }
+    footer {
+        background-color: black
+        color: white;
+        }
+        footer {
+            background-color: black;
+            color: white;
+            bottom: 0;
+            }
