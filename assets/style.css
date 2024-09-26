@@ -15,7 +15,20 @@ body {
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 5rem);
+
 }
+
+
+
+
+
+
+.cartao__conteudo {
+    text-align: center;
+    /*background-color: aquamarine;*/
+    height: 100%;
+}
+
 
 
 
