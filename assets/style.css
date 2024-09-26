@@ -13,6 +13,8 @@ body {
     margin: 2rem 2rem;
     background-color: rgb(256, 222, 178);
     height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% - 5rem);
 }
 
 
