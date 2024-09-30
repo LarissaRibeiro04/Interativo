@@ -6,9 +6,6 @@ body {
 #container {
     display: flex;
 }
-
-
-
 .cartao {
     margin: 2rem 2rem;
     background-color: rgb(256, 222, 178);
@@ -17,32 +14,21 @@ body {
     flex-basis: calc(33% - 5rem);
 
 }
-
-
-
-
-
-
 .cartao__conteudo {
     text-align: center;
     background-color: rgb(256, 222, 178);
     height: 100%;
-}
 
-
-
-
-
-cartao__conteudo h3 {
-    background-color: rgb(197, 197, 174);
+.cartao__conteudo h3{
+    background-color: antiquewhite;
     text-align: left;
     padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
-    border-radius:0.6rem;
+    border-radius: 0.6rem;
     font-size: 1vw;
-    
 }
+   
 
 
 
