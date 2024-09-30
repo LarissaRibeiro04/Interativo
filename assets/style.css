@@ -21,8 +21,6 @@ body {
 
 
 
-
-
 .cartao__conteudo {
     text-align: center;
     background-color: rgb(256, 222, 178);
@@ -30,12 +28,12 @@ body {
 }
 
 .cartao__conteudo h3 {
-    background-color: tomato;
+    background-color: rgb(226, 219, 189);
     text-align: left;
-    padding: 0.5rem;
+    padding: 0.6rem;
     position: absolute;
     margin: 0.6rem;
-    border-radius: 0.6rem;
+    border-radius: 0.7rem;
     font-size: 1vw;
 }
 
